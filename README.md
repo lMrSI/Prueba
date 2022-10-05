@@ -18,12 +18,12 @@ public class MisTiendas {
                 System.out.println(" La tienda mas barata es: " + (economico = economico + tienda3));
             }
         } else {
-            System.out.println(" La tienda mas barata es: " + (economico = economico + tienda4));
+            System.out.println(" La tienda mas barata es: " + (economico = economico + tienda4 ));
         }
         double descuento = a.nextDouble();
         double precioFinal = Double.parseDouble(economico);
         System.out.println(" El descuento es: " + descuento + "%");
         precioFinal = precioFinal - (precioFinal * descuento / 100);
-        System.out.println(" Pagaremos: " + precioFinal);
+        System.out.println(" Pagaremos un tal: " + precioFinal);
     }
 }
