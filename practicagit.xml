@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>Roger</name>
+    <surname>Sobrino</surname>
+    <age>19</age>
+    <height>1.78</height>
+    <job>Professor interí</job>
+    <address>
+        <street>diputació</street>
+        <number>18</number>
+        <cp>08012</cp>
+    </address>
+</person>
+<socialmedia>
+    <instagram>
+        <user>p34dr</user>
+        <email>rinfo@gmail.clom</email>
+    </instagram>
+    <twitter>si</twitter>
+</socialmedia>
+<friends>
+    <friend>
+        <name>Pedro</name>
+        <surname>Sotomonte</surname>
+        <age>35</age>
+    </friend>
+    <friend>
+        <name>Julia</name>
+        <surname>Sotomonte</surname>
+        <age>38</age>
+    </friend>
+</friends>
