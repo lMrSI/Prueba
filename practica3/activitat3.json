@@ -1,0 +1,28 @@
+{
+    "bookstore": {
+        "book": {
+            "title": "Les ampolles",
+            "publisher": "Salvat",
+            "cover": "dura",
+            "price": 19
+        },
+        "book": {
+            "title": "Les tasses",
+            "publisher": "Pique",
+            "cover": "tova",
+            "price": 129
+        },
+        "book": {
+            "title": "Rick i les ampolles",
+            "publisher": "Jofresa",
+            "cover": "dura",
+            "price": 58
+        },
+        "book": {
+            "title": "Tortugues mortes",
+            "publisher": "Huerta",
+            "cover": "tova",
+            "price": 19
+        }
+    }
+}
