@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stundents>
+    <stundet pais="argentina">
+        <name>luis</name>
+        <surname>motorla</surname>
+        <email>luis@gmail.com</email>
+        <dni>91283139A</dni>
+    </stundent>
+    <stundet pais="españa">
+        <name>alberto</name>
+        <surname>sandro</surname>
+        <email>alberto_sandro@outlook.com</email>
+        <dni>89812314S</dni>
+    </stundent>
+    <stundet pais="inglaterra">
+        <name>alex</name>
+        <surname>turner</surname>
+        <email>alex_turner@gamil.com</email>
+        <dni>08089864X</dni>
+    </stundent>
+    <stundet pais="bolivia">
+        <name>rodrigo</name>
+        <surname>quispe</surname>
+        <email>quispe_rod@gmail.com</email>
+        <dni>31237478X</dni>
+    </stundent>
+    <stundet pais="brasil">
+        <name>Juan</name>
+        <surname>Vallejos</surname>
+        <email>juanito_vall@gmail.com</email>
+        <dni>65789323T</dni>
+    </stundent>
+</stundents>
