@@ -1,0 +1,39 @@
+{
+    "students": {
+        "student" :{
+            "pais": "argentina",
+            "name": "luis",
+            "surname": "motorla",
+            "email": "luis@gmail.com",
+            "dni": "91283139A"
+        },
+        "student" :{
+            "pais": "españa",
+            "name": "alberto",
+            "surname": "sandro",
+            "email": "alberto_sandro@outlook.comm",
+            "dni": "89812314S"
+        },
+        "student" :{
+            "pais": "inglaterra",
+            "name": "alex",
+            "surname": "turner",
+            "email": "alex_turner@gamil.com",
+            "dni": "08089864X"
+        },
+        "student" :{
+            "pais": "bolivia",
+            "name": "rodrigo",
+            "surname": "quispe",
+            "email": "quispe_rod@gmail.com",
+            "dni": "31237478X"
+        },
+        "student" :{
+            "pais": "brasil",
+            "name": "Juan",
+            "surname": "Vallejos",
+            "email": "juanito_vall@gmail.com",
+            "dni": "65789323T"
+        }
+    }
+}
