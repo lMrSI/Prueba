@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin: auto;
+    margin-top: 100px;
+    width: 600px;
+    height: 150px;
+    font-size: 18px;
+}
+
+tr, tbody {
+    margin: 0;
+}
+
+th, td, caption{
+    text-align: center;
+    margin: 0;
+    border: 1px solid black;
+}
+
+tr, th, caption, table {
+    border-collapse: collapse;
+}
+
+caption {
+    border: 0 solid transparent;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: blue;
+}
+
+th {
+    background-color: rgb(171, 171, 171);
+}
+
+.col1, .col3{
+    text-align: left;
+    padding-left: 5px;
+}
+
+
+
+#headers{
+    height: 25px;
+    
+}
+
+#headers th {
+    text-align: center;
+}
