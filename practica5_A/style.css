@@ -1,0 +1,18 @@
+caption, th, td {
+    border-width: 1px;
+    border-style: outset;
+    border-color: black;
+}
+tr, caption, th, td, table {
+    border-collapse: collapse;
+}
+caption {
+    background-color: beige;
+}
+th {
+    background-color: bisque;
+}
+td {
+    background-color: azure;
+}
+
