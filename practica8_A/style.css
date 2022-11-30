@@ -1,0 +1,39 @@
+body{
+    background-color: #202124;
+}
+.pri{
+    color: #bdc1c6;
+}
+.seg{
+    color: #bdc1c6;
+
+}
+.ter{
+    color: white;
+}
+.cuar{
+    color: white;
+    
+}
+.quin{
+    
+
+}
+.sex{
+    background-color: #8ab4f8;
+    color: #202124;
+    float: right;
+    width: 150px;
+    text-align: center;
+
+}
+.google{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+
