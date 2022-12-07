@@ -1,18 +1,51 @@
 body{
-    background-color: #202124;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
 }
+.div_pri{
+    display: flex;
+    float: left;    
+}
+
 .pri{
-    color: #bdc1c6;
+    color: #202124;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    text-decoration: none;
+
 }
 .seg{
-    color: #bdc1c6;
+    color: #202124;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+.div_sec{
+    display: flex;
+    align-items: center;
+    float: right;
+
 
 }
 .ter{
-    color: white;
+    color: rgba(0,0,0,.87);
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    text-decoration: none;
+
 }
 .cuar{
-    color: white;
+    color: rgba(0,0,0,.87);
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px;
+    text-decoration: none;
     
 }
 .quin{
@@ -20,20 +53,126 @@ body{
 
 }
 .sex{
-    background-color: #8ab4f8;
-    color: #202124;
-    float: right;
+    background-color: #1a73e8;
+    color: #fff;
     width: 150px;
     text-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-decoration: none;
 
 }
+.second_div{
+    position: relative;
+    top: 110px;
+}
+
 .google{
     display: flex;
     justify-content: center;
-    align-items: center;
     
 
+}
+.tercer_div{
+    position: relative;
+    top: 120px;
+}
+.ter_pri{
+    display: flex;
+    justify-content: center; 
+}
+.ter_sec{
+    text-align: center;
+    top: 30px;
+    position: relative;
+}
+.enlaces_1{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    color: #3c4043;
+    margin: 11px 4px;
+    padding: 10px;
+}
+.enlaces_2{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    color: #3c4043;
+    margin: 11px 4px;
+    padding: 10px;
+    text-decoration: none;
+}
+.ter_ter{
+    color: #4d5156;
+    padding-top: 35px;
+    font-size: small;
+}
+.esp{
+    color: #0000EE;
+    text-decoration: none;
+    padding: 0 3px;
+}
+.cat{
+    color: #0000EE;
+    text-decoration: none;
+    padding: 0 3px;
+}
+.ing{
+    color: #0000EE;
+    text-decoration: none;
+    padding: 0 3px;
+}
+.cuar_div{
+    background-color: #f2f2f2;
+    position: relative;
+    top: 360px;
     
 }
+.cuar_pri{
+    color: #70757a;
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+}
+.cuar_seg{
+    position: relative;
+    left: 8px;
+    top: 27px;
 
+}
+.publi{
+    color:#70757a;
+    padding: 5px;
+    text-decoration: none;
+}
+.empresa{
+    color: #70757a;
+    padding: 5px;
+    text-decoration: none;
+}
+.busqueda{
+    color:#70757a;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+.cuar_ter{
+    display: flex;
+    float: right;
+
+}
+.priva{
+    color: #70757a;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+.termi{
+    color:#70757a;
+    padding: 5px;
+}
+.confi{
+    color:#70757a;
+    padding: 5px;
+}
 
