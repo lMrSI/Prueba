@@ -10,7 +10,8 @@ body{
 */
 .div_pri{
     display: flex;
-    float: left;    
+    float: left;
+        
 }
 
 .pri{
