@@ -5,6 +5,9 @@ body{
     display: flex;
     flex-direction: column;
 }
+/**
+*pertence al primer div
+*/
 .div_pri{
     display: flex;
     float: left;    
@@ -46,10 +49,7 @@ body{
     margin-left: 5px;
     padding: 5px;
     text-decoration: none;
-    
-}
-.quin{
-    
+
 
 }
 .sex{
@@ -64,6 +64,9 @@ body{
     text-decoration: none;
 
 }
+/**
+*pertenece al segundo div
+*/
 .second_div{
     position: relative;
     top: 110px;
@@ -72,9 +75,12 @@ body{
 .google{
     display: flex;
     justify-content: center;
-    
+
 
 }
+/**
+*pertenece al tercer div
+*/
 .tercer_div{
     position: relative;
     top: 120px;
@@ -123,6 +129,9 @@ body{
     text-decoration: none;
     padding: 0 3px;
 }
+/**
+*pertenece al cuarto div
+*/
 .cuar_div{
     background-color: #f2f2f2;
     position: relative;
